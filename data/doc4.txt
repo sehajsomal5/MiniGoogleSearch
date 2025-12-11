@@ -1,0 +1,1 @@
+Cloud Computing allows access to computing resources via the internet. Providers include AWS, Azure, and GCP.

@@ -1,0 +1,1 @@
+Reinforcement Learning is a type of ML where agents learn to make decisions by trial and error.

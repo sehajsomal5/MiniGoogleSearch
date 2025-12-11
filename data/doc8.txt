@@ -1,0 +1,1 @@
+Computer Vision is a field of AI that interprets visual information from the world.

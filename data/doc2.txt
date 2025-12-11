@@ -1,0 +1,1 @@
+Machine Learning is a subset of AI that learns from data. Supervised and unsupervised learning are key types.
