@@ -1,1 +1,1 @@
-Deep Learning uses neural networks with many layers. It has revolutionized image and speech recognition.
+Deep Learning uses neural networks with many layers. It has revolutionized image and speech recognition. It is a subset of Artificial Intelligence.
